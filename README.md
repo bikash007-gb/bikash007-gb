@@ -15,7 +15,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m a CSE graduate BVEC
+- 👨🏽‍💻 I’m a CSE graduate from BVEC
 - 🌱 I’m currently exploring JavaScript with a big interest in NodeJs and Data Structures and Algorithms. 
 - 🤔 My interest lies in back end web development.
 - 💬 Ask me about anything, I love to answer!
