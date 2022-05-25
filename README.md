@@ -15,9 +15,11 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m a CSE graduate from BVEC
-- 🌱 I’m currently exploring JavaScript with a big interest in NodeJs and Data Structures and Algorithms. 
-- 🤔 My interest lies in back end web development.
+- 👨🏽‍💻 I’m a CSE graduate
+- 🌱 I’m currently exploring JavaScript with a big interest in NodeJs.
+- 👻 I love to work with MongoDB.  
+- 🤔 My interest lies in backend development.
+- 🖖 Recently I have developed an interest in microservice architecture
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [bikashmali12@gmail.com](mailto:bikashmali12@gmail.com).
 
